@@ -1,0 +1,5 @@
+train  = /home/vplab/Sadbhavana/pytorch-0.4-yolov3/data_voc_format/train_with_person.txt
+valid  = /home/vplab/Sadbhavana/pytorch-0.4-yolov3/data_voc_format/my_data_test.txt
+names = data/person_data.names
+backup = backup_person
+gpus  = 0

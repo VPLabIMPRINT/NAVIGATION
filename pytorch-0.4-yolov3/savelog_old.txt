@@ -1,0 +1,10 @@
+2019-07-17 11:49:19 [010] correct: 8490, precision: 0.530393, recall: 0.705736, fscore: 0.605623
+2019-07-17 23:09:05 [010] correct: 2436, precision: 0.203220, recall: 0.202494, fscore: 0.202851
+2019-07-18 00:45:38 [020] correct: 2788, precision: 0.227518, recall: 0.231754, fscore: 0.229611
+2019-07-18 02:22:43 [030] correct: 3231, precision: 0.202076, recall: 0.268579, fscore: 0.230624
+2019-07-18 04:01:44 [040] correct: 3494, precision: 0.209397, recall: 0.290441, fscore: 0.243344
+2019-07-18 05:40:35 [050] correct: 3576, precision: 0.232253, recall: 0.297257, fscore: 0.260760
+2019-07-18 07:17:54 [060] correct: 3625, precision: 0.217626, recall: 0.301330, fscore: 0.252723
+2019-07-18 08:56:53 [070] correct: 3684, precision: 0.208336, recall: 0.306234, fscore: 0.247967
+2019-07-18 10:35:33 [080] correct: 3708, precision: 0.231996, recall: 0.308229, fscore: 0.264729
+2019-07-18 12:13:32 [090] correct: 4029, precision: 0.207008, recall: 0.334913, fscore: 0.255862

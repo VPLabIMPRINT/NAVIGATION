@@ -1,0 +1,5 @@
+train  = /media/vplab/Seagate Backup Plus Drive/Sadbhavana/voc_data/train.txt
+valid  = /media/vplab/Seagate Backup Plus Drive/Sadbhavana/voc_data/2007_test.txt
+names = data/voc.names
+backup = new_augment
+gpus  = 1

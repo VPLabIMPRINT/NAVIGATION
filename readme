@@ -1,0 +1,18 @@
+Setup the conda environment using the environment.yml file provided in the root directory.
+
+fileExp.py lauches the demo. Execute it using "python fileExp.py"
+
+Once the demo GUI is lauched:
+There will be two buttons on the top right corner, named, 1) Browse folders to select input folder   2) Use Webcam Input. Click on one of them.
+
+If "Use Webcam Input" is chosen, input will be taken from webcam.
+If "Browse folders to select input folder" is chosen, one file browsing dialog will open up, one can browse through folders in the system to choose the folder containing input images.
+
+Finally, select what results you want to display on the screen by selecting the checkboxes accordingly and click on "Start Demo" button.
+
+
+NOTE: 
+For any installation issue refer to the original repositories.
+Depth estimation - https://github.com/JunjH/Revisiting_Single_Depth_Estimation 
+Semantic segmentation - https://github.com/CSAILVision/semantic-segmentation-pytorch
+Object detection - https://github.com/andy-yun/pytorch-0.4-yolov3
