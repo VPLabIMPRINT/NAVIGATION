@@ -1,5 +1,0 @@
-train  = /media/vplab/IMPRINT/Sadbhavana/my_darknet/data/voc/train.txt
-valid  = /media/vplab/IMPRINT/Sadbhavana/my_darknet/data/voc/2007_test.txt
-names = data/voc.names
-backup = backup
-gpus  = 0,1,

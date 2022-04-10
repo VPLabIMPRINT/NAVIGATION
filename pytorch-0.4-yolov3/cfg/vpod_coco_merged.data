@@ -1,5 +1,0 @@
-train  = data/merge_train.txt
-valid  = data/merge_test.txt
-names = data/merged_vpod_coco_data.names
-backup = vpod_coco
-gpus  = 1
