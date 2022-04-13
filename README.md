@@ -16,7 +16,7 @@ For more details please refer to our [arxiv paper](https://arxiv.org/abs/2202.02
 
 #### Installation
 
-Clone the repo and make new virtual enviornment by using [enviornment.yml](https://github.com/VPLabIMPRINT/NAVIGATION/blob/main/environment.yml)
+Clone the repo and make new virtual enviornment by using [environment.yml](https://github.com/VPLabIMPRINT/NAVIGATION/blob/main/environment.yml)
 
 ``` bash
 # Clone this repository
@@ -25,11 +25,11 @@ git clone https://github.com/VPLabIMPRINT/NAVIGATION.git
 # Go into the repository
 cd NAVIGATION
 
-# Deactivating previous enviornment
+# Deactivating previous environment
 conda deactivate
 
-# Creating enviornment from enviornment.yml file
-conda env create --file enviornment.yml 
+# Creating environment from environment.yml file
+conda env create --file environment.yml 
 
 # Activating new enviornment
 conda activate navigation_demo 
