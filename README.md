@@ -2,8 +2,6 @@
 # Navigation
 (explanation needed)
 
-For more details please refer to our [arxiv paper](https://arxiv.org/abs/2202.02567)
-
 
 
 
