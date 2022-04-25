@@ -60,5 +60,5 @@ Download weights from [here](https://drive.google.com/drive/folders/1--uvbvqUgwD
 python fileExp.py
 ```
 
-### Qualitative Results
+### Qualitative Results (Green Arrow - GT; Blue Arrow - Prediction; Red Arrow - Camera View Axis)
 ![alt text](results_on_our_images.png)
