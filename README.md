@@ -62,3 +62,52 @@ python fileExp.py
 
 ### Qualitative Results (Green Arrow - GT; Blue Arrow - Prediction; Red Arrow - Camera View Axis)
 ![alt text](results_on_our_images.png)
+
+### References
+
+If you find the code or pre-trained models useful, please cite the following papers:
+
+Semantic Understanding of Scenes through ADE20K Dataset. B. Zhou, H. Zhao, X. Puig, T. Xiao, S. Fidler, A. Barriuso and A. Torralba. International Journal on Computer Vision (IJCV), 2018. (https://arxiv.org/pdf/1608.05442.pdf)
+
+```
+@article{zhou2018semantic,
+  title={Semantic understanding of scenes through the ade20k dataset},
+  author={Zhou, Bolei and Zhao, Hang and Puig, Xavier and Xiao, Tete and Fidler, Sanja and Barriuso, Adela and Torralba, Antonio},
+  journal={International Journal on Computer Vision},
+  year={2018}
+}
+```
+Scene Parsing through ADE20K Dataset. B. Zhou, H. Zhao, X. Puig, S. Fidler, A. Barriuso and A. Torralba. Computer Vision and Pattern Recognition (CVPR), 2017. (http://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf)
+
+```
+@inproceedings{zhou2017scene,
+    title={Scene Parsing through ADE20K Dataset},
+    author={Zhou, Bolei and Zhao, Hang and Puig, Xavier and Fidler, Sanja and Barriuso, Adela and Torralba, Antonio},
+    booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+    year={2017}
+}
+```
+
+Hu, Junjie, et al. "Revisiting single image depth estimation: Toward higher resolution maps with accurate object boundaries." 2019 IEEE Winter Conference on Applications of Computer Vision (WACV). IEEE, 2019.
+
+```
+@inproceedings{hu2019revisiting,
+  title={Revisiting single image depth estimation: Toward higher resolution maps with accurate object boundaries},
+  author={Hu, Junjie and Ozay, Mete and Zhang, Yan and Okatani, Takayuki},
+  booktitle={2019 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={1043--1051},
+  year={2019},
+  organization={IEEE}
+}
+```
+
+Redmon, Joseph, and Ali Farhadi. "Yolov3: An incremental improvement." arXiv preprint arXiv:1804.02767 (2018).
+
+```
+@article{redmon2018yolov3,
+  title={Yolov3: An incremental improvement},
+  author={Redmon, Joseph and Farhadi, Ali},
+  journal={arXiv preprint arXiv:1804.02767},
+  year={2018}
+}
+```
