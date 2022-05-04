@@ -60,6 +60,10 @@ Download weights from [here](https://drive.google.com/drive/folders/1--uvbvqUgwD
 python fileExp.py
 ```
 
+Test image samples are provided in the folder "pipeline/usb_cam_obj_nav" and corresponding outputs are provided in the folder named "Freespace_Map/version_4/GUI/output/usb_cam_obj_nav". 
+
+To test the code on custom input, store the folder containing test images in folder named "pipeline" and then select that folder in the GUI. Once output is generated, it can be retrieved from folder having the same name inside the folder "Freespace_Map/version_4/GUI/output/". 
+
 ### Qualitative Results (Green Arrow - GT; Blue Arrow - Prediction; Red Arrow - Camera View Axis)
 ![alt text](results_on_our_images.png)
 
