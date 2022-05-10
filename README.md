@@ -5,10 +5,11 @@
 ## Installation & Preparation
 
 #### prerequisites
-- This code has been tested on Ubuntu 16.04 and Ubuntu 18.04.
+- This code has been tested on Ubuntu 16.04 LTS and Ubuntu 18.04 LTS.
 - Python 3.5
 - Pytorch 1.5.1
 - Cuda 9.2
+- Other dependencies: numpy, scipy, opencv, yacs, tqdm
 
 #### Installation
 
