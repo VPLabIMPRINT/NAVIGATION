@@ -9,7 +9,6 @@
 - Python 3.5
 - Pytorch 1.5.1
 - Cuda 9.2
-- Other dependencies: numpy, scipy, opencv, yacs, tqdm
 
 #### Installation
 
