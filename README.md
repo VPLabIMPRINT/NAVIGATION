@@ -5,6 +5,7 @@
 ## Installation & Preparation
 
 #### prerequisites
+- This code has been tested on Ubuntu 16.04 and Ubuntu 18.04.
 - Python 3.5
 - Pytorch 1.5.1
 - Cuda 9.2
