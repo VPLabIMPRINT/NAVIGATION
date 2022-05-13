@@ -2,7 +2,7 @@ Setup the conda environment using the environment.yml file provided in the root 
 
 fileExp.py lauches the demo. Execute it using "python fileExp.py"
 
-Once the demo GUI is lauched:
+Once the demo GUI is launched:
 There will be two buttons on the top right corner, named, 1) Browse folders to select input folder   2) Use Webcam Input. Click on one of them.
 
 If "Use Webcam Input" is chosen, input will be taken from webcam.
