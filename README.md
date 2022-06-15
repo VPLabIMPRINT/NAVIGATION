@@ -42,7 +42,7 @@ Download weights from [here](https://drive.google.com/drive/folders/1D9_7jCFyLwS
 and place it into [this](https://github.com/VPLabIMPRINT/NAVIGATION/tree/main/pytorch-0.4-yolov3) folder.
 
 - Depth estimation model weights:
-Download weights from [here](https://drive.google.com/file/d/158txNr2sP90FaWkk1q1rBkEwaWNuZJuO/view?usp=sharing)
+Download weights from [here](https://drive.google.com/file/d/1ySmG6vuT-ZojbT1dcePTgkNilEWPnQwR/view?usp=sharing)
 and place it into [this](https://github.com/VPLabIMPRINT/NAVIGATION/tree/main/Revisiting_Single_Depth_Estimation/pretrained_model)
 folder.
 
